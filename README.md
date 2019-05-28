@@ -13,3 +13,5 @@
 1.《终身成长》[美]卡罗尔·德韦克 著 楚祎楠 译 纸质书 [笔记](https://github.com/eyea/books/blob/master/%E7%BB%88%E8%BA%AB%E6%88%90%E9%95%BF.md)
 
 2.《你只是看起来很努力(全新修订版)》李尚龙 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E4%BD%A0%E5%8F%AA%E6%98%AF%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%8A%AA%E5%8A%9B.md)
+
+3.《原则》[美]Ray Dalio 著 刘波 译 纸质书 [笔记](https://github.com/eyea/books/blob/master/%E5%8E%9F%E5%88%99.md)
