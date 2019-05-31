@@ -19,3 +19,5 @@
 4.《谁动了我的奶酪》Spencer Johnson 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E8%B0%81%E5%8A%A8%E4%BA%86%E6%88%91%E7%9A%84%E5%A5%B6%E9%85%AA.md)
 
 5.《我与地坛》史铁生 著 [笔记](https://github.com/eyea/books/blob/master/%E6%88%91%E4%B8%8E%E5%9C%B0%E5%9D%9B.md)
+
+6.《曹操墓真相》唐际根 张志清 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E6%9B%B9%E6%93%8D%E5%A2%93%E7%9C%9F%E7%9B%B8.md)
