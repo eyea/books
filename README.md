@@ -20,4 +20,5 @@
 
 5.《我与地坛》史铁生 著 [笔记](https://github.com/eyea/books/blob/master/%E6%88%91%E4%B8%8E%E5%9C%B0%E5%9D%9B.md)
 
-6.《曹操墓真相》唐际根 张志清 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E6%9B%B9%E6%93%8D%E5%A2%93%E7%9C%9F%E7%9B%B8.md)
+6.《曹操墓真相》唐际根 张志清 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E6%9B%B9%E6%93%8D%E5%A2%93%E7%9C%9F%E7%9B%B8.md)  <span color:'#7FFFD4'>已读完</span>
+ 
