@@ -25,3 +25,12 @@
 7.《生命是孤独的旅程》贾平凹 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E7%94%9F%E5%91%BD%E6%98%AF%E5%AD%A4%E7%8B%AC%E7%9A%84%E6%97%85%E7%A8%8B.md)
  
 8.《富爸爸穷爸爸》罗伯特·清崎 著 [笔记](https://github.com/eyea/books/blob/master/%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8.md)
+
+
+
+
+### 网络小说
+
+这个不想看书连觉也不想睡的时候随便看，不记录在正文中 哈哈 :)
+
+1.《开天录》血红 电子书
