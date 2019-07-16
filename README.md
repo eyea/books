@@ -10,7 +10,7 @@
 
 # 目录清单:
 
-1.《终身成长》[美]卡罗尔·德韦克 著 楚祎楠 译 纸质书 [笔记](https://github.com/eyea/books/blob/master/%E7%BB%88%E8%BA%AB%E6%88%90%E9%95%BF.md)
+1.《终身成长》[美]卡罗尔·德韦克 著 楚祎楠 译 纸质书 [笔记](https://github.com/eyea/books/blob/master/%E7%BB%88%E8%BA%AB%E6%88%90%E9%95%BF.md)  已读完
 
 2.《你只是看起来很努力(全新修订版)》李尚龙 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E4%BD%A0%E5%8F%AA%E6%98%AF%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E5%8A%AA%E5%8A%9B.md)
 
@@ -26,7 +26,7 @@
  
 8.《富爸爸穷爸爸》罗伯特·清崎 著 [笔记](https://github.com/eyea/books/blob/master/%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8.md)
 
-9.《白夜行》东野圭吾 著 [笔记](https://github.com/eyea/books/blob/master/%E7%99%BD%E5%A4%9C%E8%A1%8C.md)
+9.《白夜行》东野圭吾 著 [笔记](https://github.com/eyea/books/blob/master/%E7%99%BD%E5%A4%9C%E8%A1%8C.md) 已读完
 
 
 
