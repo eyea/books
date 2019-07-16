@@ -26,6 +26,7 @@
  
 8.《富爸爸穷爸爸》罗伯特·清崎 著 [笔记](https://github.com/eyea/books/blob/master/%E5%AF%8C%E7%88%B8%E7%88%B8%E7%A9%B7%E7%88%B8%E7%88%B8.md)
 
+9.《白夜行》东野圭吾 著 [笔记](https://github.com/eyea/books/blob/master/%E7%99%BD%E5%A4%9C%E8%A1%8C.md)
 
 
 
