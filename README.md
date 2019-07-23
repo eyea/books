@@ -28,6 +28,8 @@
 
 9.《白夜行》东野圭吾 著 [笔记](https://github.com/eyea/books/blob/master/%E7%99%BD%E5%A4%9C%E8%A1%8C.md) 已读完
 
+10.《中国经济2019》 王德培 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E2019.md) 已读完
+
 
 
 ### 网络小说
