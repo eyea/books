@@ -31,7 +31,7 @@
 10.《中国经济2019》 王德培 著 电子书 [笔记](https://github.com/eyea/books/blob/master/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E2019.md) 已读完
 
 ### 技术书籍
-1. [你不知道的js 上](https://github.com/eyea/books/blob/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84js%E4%B8%8A.md) 电子书
+1. 《你不知道的js 上》 [笔记](https://github.com/eyea/books/blob/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84js%E4%B8%8A.md) 电子书 已读完
 
 ### 网络小说
 
