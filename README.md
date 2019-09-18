@@ -33,6 +33,8 @@
 ### 技术书籍
 1. 《你不知道的js 上》 [笔记](https://github.com/eyea/books/blob/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84js%E4%B8%8A.md) 电子书 已读完
 2. 《你不知道的js 中》 [笔记](https://github.com/eyea/books/blob/master/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84js%E4%B8%AD.md) 电子书 已读完
+3.《你不知道的js 下》电子书 已读完
+
 ### 网络小说
 
 这个不想看书连觉也不想睡的时候随便看，不记录在正文中 哈哈 :)
